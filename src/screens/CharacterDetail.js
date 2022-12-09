@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
   image: {
     width: '80%',
     height: 200,
-    resizeMode: 'strech',
+    resizeMode: 'stretch',
     alignSelf: 'center',
     borderRadius: 15
   },
